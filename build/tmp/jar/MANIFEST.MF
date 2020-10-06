@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Class-Path: lib/commons-codec-1.15
+Main-Class: Main
+
